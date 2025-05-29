@@ -141,7 +141,6 @@ fun Onboarding(navController: NavHostController) {
                 ) {
                 Text(text = "Register")
             }
-
         }
     }
 }
