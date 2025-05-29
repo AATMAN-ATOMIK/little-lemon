@@ -1,12 +1,10 @@
-# <YourProjectName> 📱
+# <Android Project Capstone : Little Lemon> 📱
 
 ![Meta Android Developer](https://img.shields.io/badge/Coursera-Meta%20Android%20Developer-blue)
 
 A mobile Android application built as part of the **Meta Android Developer Certification** on Coursera. This project demonstrates key Android development concepts using Jetpack Compose, Room, Navigation, and modern architecture components.
 
 ## 🧠 About the Project
-
-<Write a few lines here explaining the project's goal or purpose. For example:>
 
 This app is a restaurant menu viewer called **Little Lemon**, inspired by a Mediterranean restaurant. Users can:
 
@@ -27,15 +25,6 @@ Here’s the initial design wireframe used to plan the app’s layout:
 
 ![Wireframe](./Wireframe%20Main.png)
 
-_Replace the above link with the relative path if the image is part of the repository, e.g. `./assets/wireframe.png`._
-
-## 📸 Screenshots
-
-_Add screenshots of your app here if available:_
-
-| Home Screen | Search | Profile |
-|-------------|--------|---------|
-| ![Home](./assets/home.png) | ![Search](./assets/search.png) | ![Profile](./assets/profile.png) |
 
 ## 🚀 Features
 
