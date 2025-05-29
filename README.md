@@ -42,6 +42,3 @@ Here’s the initial design wireframe used to plan the app’s layout:
 - Navigation Component
 - LiveData + ViewModel
 - Material3
-
-## 🗂️ Project Structure
-
