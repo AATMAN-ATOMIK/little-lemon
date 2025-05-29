@@ -25,7 +25,7 @@ This project was created as part of the [Meta Android Developer Professional Cer
 
 Here’s the initial design wireframe used to plan the app’s layout:
 
-![Wireframe]("./Wireframe Main.png")
+![Wireframe](./WireframeMain.png)
 
 _Replace the above link with the relative path if the image is part of the repository, e.g. `./assets/wireframe.png`._
 
